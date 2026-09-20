@@ -1,0 +1,9 @@
+{
+  "name": "PLT-Stream Red",
+  "description": "PLT-Stream Red",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
+  "pluginLists": [
+    "https://beta.polatmustafa.site/plugins.json"
+  ]
+}
