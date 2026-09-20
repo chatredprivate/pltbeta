@@ -1,0 +1,23 @@
+[
+  {
+    "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+    "fileSize": 1058320,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "pltred"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Documentary"
+    ],
+    "version": -1,
+    "internalName": "plt-stream",
+    "description": "PLT-Stream Red",
+    "url": "https://beta.polatmustafa.site/plt-stream.cs3",
+    "name": "plt-stream"
+  }
+]
