@@ -2,7 +2,7 @@
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+    "repositoryUrl": "https://raw.githubusercontent.com/chatredprivate/pltbeta/refs/heads/main",
     "fileSize": 1058320,
     "status": 1,
     "language": "tr",
@@ -17,7 +17,7 @@
     "version": -1,
     "internalName": "plt-stream",
     "description": "PLT-Stream Red",
-    "url": "https://beta.polatmustafa.site/plt-stream.cs3",
+    "url": "https://raw.githubusercontent.com/chatredprivate/pltbeta/refs/heads/main/plt-red.cs3",
     "name": "plt-stream"
   }
 ]
